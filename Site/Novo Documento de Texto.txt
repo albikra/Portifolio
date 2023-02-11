@@ -1,0 +1,15 @@
+<h1 class="Ap_Conteudo__Titulo2">Quem sou eu?</h1>
+            <p class="Ap_Conteudo__Paragrafo">-Estudante de Engenharia Mecatrônica na FIAP <br>
+                <br>
+                -Apaixonado pelo mundo da eletrônica e da programação <br>
+                <br>
+                -Buscando transformar a vida para melhor através da tecnologia<br>
+                <br>
+                -Full stack developer (ou tentando ser...) <br>
+                <br>
+                -#Python, //Java, //C++, //kotlin, //estudando /* JavaScript <br>
+                <br>
+                -Eu criei esse site, então eu acho que sei html e css <br> /*-- mas se eu fosse você eu não olharia o html nem o css dessa página... fiz uns ajustes técnicos sinistros. --*/<br>
+                <br>
+                -E eu tenho uma namorada muito bonita :)
+             </p>
